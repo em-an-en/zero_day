@@ -1,0 +1,1 @@
+This is for my ALX Vagrant task and yeah this will serve as this repo description as apparently I forgot to do that when I was creating this repo. Also, as you must have figured, this is not my first repo only that this time I'm doing this on my gitbash and will push from here to my remote server
